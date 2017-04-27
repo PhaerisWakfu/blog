@@ -1,2 +1,2 @@
 > blog for wyh
-暂时放置
+###welcome to my blog
